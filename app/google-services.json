@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837484391312",
+    "project_id": "dauryuk2",
+    "storage_bucket": "dauryuk2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837484391312:android:28646c30624bf1afb76115",
+        "android_client_info": {
+          "package_name": "com.example.mycapstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNa4PwS5gbHSCE-xYOQanW1dUHXb4t-XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

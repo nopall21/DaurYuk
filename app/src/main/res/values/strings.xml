@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DaurYuk</string>
+    <string name="client_id">1033374640668-mpfh1gut1s6p99lurm3i47mm3q5poh17.apps.googleusercontent.com</string>
+    <string name="text_login">Login Account</string>
+    <string name="text_register">Register Account</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="title_feature1">history</string>
+    <string name="title_feature2">camera</string>
+    <string name="title_feature3">recomendation</string>
+    <string name="something_wrong">Oops.. something went wrong.</string>
+    <string name="title">Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="tab_text_1">News</string>
+    <string name="tab_text_2">Updates</string>
+    <string name="error_message">An error occurred</string>
+    <string name="retry">retry</string>
+    <string name="news_image">news image</string>
+    <string name="berita">Berita</string>
+    <string name="profile">Profile</string>
+    <string name="account_name">Nama Pengguna</string>
+    <string name="logout">logout</string>
+    <string name="title_home">home</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">nothing</string>
+    <string name="history">History</string>
+    <string name="recomendation">recomendation</string>
+    <string name="classification">Klasifikasi</string>
+    <string name="berita1">Keren! Kapal Sandal Karya Petugas UPS Siap Ramaikan HUT Jakarta</string>
+    <string name="berita11">Petugas UPS Badan Air DLH Jakarta memanfaatkan sampah botol bekas untuk membuat kerajinan berbentuk kapal. Karya mereka siap meramaikan HUT Jakarta.</string>
+
+
+    <string name="deskripsi_sampah">Deskripsi sampah</string>
+    <string name="sampah_organik_desc">Sampah organik mudah terurai di alam (busuk), seperti sisa makanan, daun, ranting. Sampah organik juga dapat diproses menjadi pupuk kompos. Kemudian tempat sampah organik ditandai berwarna hijau.</string>
+    <string name="sampah_anorganik_desc">ciri-ciri sampah anorganik adalah sulit terurai, seperti plastik, kaleng, styrofoam. Hasil dari sampah ini bisa diolah menjadi kerajinan atau didaur ulang di pabrik. Untuk tempat sampah anorganik biasanya ditandai berwarna kuning.</string>
+    <string name="default_web_client_id">AIzaSyB5yaSvLVWiVmL8Y2xWUz2YqTXyCGkxbsk</string>
+    <string name="reward">Reward</string>
+</resources>
